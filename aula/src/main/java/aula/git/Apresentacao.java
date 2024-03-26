@@ -8,6 +8,8 @@ public class Apresentacao {
 
     private void lucasSouza() {
         System.out.println("Teste Mudança");
+        System.out.println("Teste");
+
         System.out.println("Estou colaborando com o git");
     }
 }
